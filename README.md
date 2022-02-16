@@ -1,16 +1,20 @@
-### Hi there 👋
+# boas-vindas ! 👋
 
-<!--
-**okborges/okborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<div size='20px'> Oi ! Me chamo Rafael Borges. Obrigado por visitar meu perfil :smile: 
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img width="45%" align="right" alt="Github" src="https://i.imgur.com/6T8EXes.png"/>
+
+
+- 💻 Sou desenvolvedor web Front-End Jr.
+
+- 🎓 Formado pelo BootCamp da Generation Brasil. 
+  
+- 👨‍🎓 Estudando Web Design, UX/UI Design pela Origamid 🐺.
+
+- 💖 Apaixonado por design, adrenalina e pela cultura brasileira.
+
+- 📍 Atualmente morando em São Bernardo do Campo, São Paulo, BR.
