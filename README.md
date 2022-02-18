@@ -23,7 +23,7 @@
 
 <div>
   <a href="https://github.com/okborges">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okborges&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okborges&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   
 <div style="display: inline_block"><br>
