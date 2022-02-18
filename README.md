@@ -38,7 +38,7 @@
 #
 ## Contato 🤙
   <div>
-   <a href= https://www.linkedin.com/in/okborges >
+   <a href= https://www.linkedin.com/in/okborges target="_blank" >
     <img align="center" alt="Borges-Ts" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
    <a href= mailto:rafaelborges.av@gmail.com >
