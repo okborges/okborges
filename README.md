@@ -1,7 +1,7 @@
 # boas-vindas ! 👋
 
 </p>
-<div size='20px'> Oi ! Me chamo Rafael Borges. Obrigado por visitar meu perfil :smile: 
+<div size='20px'> Oi ! Me chamo Rafael Borges. Obrigado por visitar meu perfil. :smile: 
 </div>
 
 
@@ -13,7 +13,7 @@
 
 - 🎓 Formado pelo BootCamp da Generation Brasil. 
   
-- 👨‍🎓 Estudando Web Design, UX/UI Design pela Origamid 🐺.
+- 👨‍🎓 Estudando Web Design, UX/UI Design pela Origamid. 🐺
 
 - 💖 Apaixonado por design, adrenalina e pela cultura brasileira.
 
