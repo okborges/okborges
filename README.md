@@ -6,7 +6,7 @@
 
 
 
-<img width="45%" align="right" alt="Github" src="https://i.imgur.com/6T8EXes.png"/>
+<img width="30%" align="right" alt="Github" src="https://i.imgur.com/6T8EXes.png"/>
 
 
 - 💻 Sou desenvolvedor web Front-End Jr.
