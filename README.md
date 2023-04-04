@@ -17,7 +17,7 @@
 
 - 💖 Apaixonado por design, adrenalina e pela cultura brasileira.
 
-- 📍 Atualmente morando em Bela Vista / Centro, São Paulo, BR.
+- 📍 Atualmente morando em Vila Mariana, São Paulo, BR.
 
 #
 
