@@ -10,8 +10,6 @@
 
 
 - 💻 Sou desenvolvedor Front-End Jr.
-
-- 🎓 Formado pelo BootCamp da Generation Brasil. 
   
 - 👨‍🎓 Cursando Análise de Sistemas pela UNINOVE.
 
