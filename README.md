@@ -1,4 +1,4 @@
-Desenvolvedor Front-End.
+Desenvolvedor Front-End com bom senso estético.
 
 ## Contato
   <div>
