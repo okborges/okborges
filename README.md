@@ -1,5 +1,7 @@
 Desenvolvedor Front-End com bom senso estético.
 
+Projeto da minha vida: https://dallacqua.app
+
 ## Contato
   <div>
    <a href= https://www.linkedin.com/in/okborges target="_blank" >
